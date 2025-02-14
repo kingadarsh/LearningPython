@@ -1,21 +1,21 @@
 
 ### **1. Basic Syntax & Variables**  
-<!-- 1. Print "Hello, World!" in Python.   -->
-<!-- 2. Take two numbers as input and print their sum.   -->
-<!-- 3. Swap two numbers without using a third variable.   -->
-<!-- 4. Check if a number is positive, negative, or zero.  
-5. Convert Celsius to Fahrenheit.   -->
+ 1. Print "Hello, World!" in Python.  
+ 2. Take two numbers as input and print their sum.   
+ 3. Swap two numbers without using a third variable.  
+4. Check if a number is positive, negative, or zero.  
+5. Convert Celsius to Fahrenheit.  
 
 ### **2. Data Types & Operators**  
-<!-- 6. Find the remainder when a number is divided by another.  
+ 6. Find the remainder when a number is divided by another.  
 7. Compute the area of a circle given its radius.  
 8. Check whether a number is even or odd.  
 9. Find the largest of three numbers.  
-10. Calculate the square root of a number.   -->
+10. Calculate the square root of a number. 
 
 ### **3. Strings**  
-<!-- 11. Count the number of vowels in a given string.  
-12. Reverse a string without using built-in functions.   -->
+ 11. Count the number of vowels in a given string.  
+12. Reverse a string without using built-in functions.   
 13. Check if a string is a palindrome.  
 14. Convert a string to uppercase and lowercase.  
 15. Find the length of a string without using `len()`.  
